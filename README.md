@@ -6,7 +6,8 @@
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
  <p>I am a UX/UI designer and front-end developer with nearly four years of experience. I have worked in companies in the education and banking sectors. I have a master's degree in Software Engineering. I have been a speaker at more than 10 events. <i></i></p>
 
-<img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="45%" align="right" />
+
+<img src="https://user-images.githubusercontent.com/2184469/40949613-7542733a-6834-11e8-895b-ce1cc3af9dbb.gif" width="45%" align="right" />
 
 
 <a href="https://emoji.gg/emoji/9691-hellokittyarrowr"><img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="32px" height="32px" alt="HelloKittyArrowR"></a> I’m currently learning on **Product Design**
