@@ -3,11 +3,10 @@
 # Hello👋, Welcome
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=My+name+is+Mar+S..."/>
 
+## ⚡🙋‍♂️ About
  <p>I am a UX/UI designer and front-end developer with nearly four years of experience. I have worked in companies in the education and banking sectors. I have a master's degree in Software Engineering. I have been a speaker at more than 10 events. <i></i></p>
 
 <img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="45%" align="right" />
-
-## ⚡🙋‍♂️ About
 </br>
 - 🌱 Learning Product Design.
 - 💼 UX/UI Engineer with a Front-End mindset
