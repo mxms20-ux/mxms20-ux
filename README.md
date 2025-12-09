@@ -38,7 +38,7 @@
 <p align="center">
 <a href="https://github.com/mxms20-ux">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MS02&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MS02&layout=compact&langs_count=5&hide=java,php,python,ruby,go,c,cpp,c%2B%2B,csharp,swift,kotlin&theme=vue-light" />
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mxms20-ux&layout=compact&langs_count=5&hide=java,php,python,ruby,go,c,cpp,c%2B%2B,csharp,swift,kotlin&theme=vue-light" />
 
 </a>
 </p>
