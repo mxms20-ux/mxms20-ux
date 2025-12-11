@@ -10,11 +10,11 @@
 <img src="https://user-images.githubusercontent.com/2184469/40949613-7542733a-6834-11e8-895b-ce1cc3af9dbb.gif" width="45%" align="right" />
 
 
-<a href="https://emoji.gg/emoji/9691-hellokittyarrowr"><img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="32px" height="32px" alt="HelloKittyArrowR"></a> I’m currently learning on **Product Design**
+ I’m currently learning on **Product Design**
 <br>
-<a href="https://emoji.gg/emoji/9691-hellokittyarrowr"><img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="32px" height="32px" alt="HelloKittyArrowR"></a> I’m am a **UX/UI Engineer & Front-End Developer**
+ I’m am a **UX/UI Engineer & Front-End Developer**
 <br>
-<a href="https://emoji.gg/emoji/9691-hellokittyarrowr"><img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="32px" height="32px" alt="HelloKittyArrowR"></a> I’m  working on **Proyects and clients**
+ I’m  working on **Proyects and clients**
 
 <hr>
 
