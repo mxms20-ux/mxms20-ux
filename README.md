@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=My+name+is+Mar+S..."/>
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
- <p>I am a UX/UI designer and front-end developer with nearly four years of experience. I have worked in companies in the education and banking sectors. I have a master's degree in Software Engineering. I have been a speaker at more than 10 events. <i></i></p>
+ <p>I am a UX/UI designer and front-end developer with +3 years of experience. I have worked in companies in the education and banking sectors. I have a master's degree in Software Engineering. I have been a speaker at more than 10 events. <i></i></p>
 
 
 <img src="https://user-images.githubusercontent.com/2184469/40949613-7542733a-6834-11e8-895b-ce1cc3af9dbb.gif" width="45%" align="right" />
